@@ -50,7 +50,11 @@ class FirstViewController: UIViewController {
         navBarTitleColor = UIColor.white
         
         navBarBackgroundAlpha = 0
+        
+        statusBarStyle = .lightContent
     }
+    
+    
 }
 
 extension FirstViewController: UITableViewDataSource, UITableViewDelegate {

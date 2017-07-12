@@ -23,7 +23,7 @@ class BaseViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        title = "第一个控制器"
+        title = "第一个"
         
         view.backgroundColor = UIColor.cyan
         
